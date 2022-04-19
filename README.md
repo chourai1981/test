@@ -1,1 +1,1 @@
-# extension-privacy-policy.github.io
+# ios distribution
