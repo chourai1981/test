@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>jp.co.nec.vpnextest</string>
 				<key>bundle-version</key>
-				<string>6.3.0</string>
+				<string>7.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
